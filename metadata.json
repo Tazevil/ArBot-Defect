@@ -1,0 +1,5 @@
+{
+  "name": "Détective de défauts",
+  "description": "Détectez l'emplacement précis 2D/3D d'objets dans n'importe quelle image ou partage d'écran en direct.",
+  "requestFramePermissions": []
+}
